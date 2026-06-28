@@ -97,4 +97,4 @@ This project includes advanced visualizations using Plotly and Matplotlib to pre
 
 ## Author
 
-Artemie Țurcanu - Data Analyst.
+Artemie Țurcanu — Data Analyst
